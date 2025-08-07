@@ -30,7 +30,7 @@ You may use either `huggingface-cli` or the Python `datasets` library to complet
 | GSM8K         | [`openai/gsm8k`](https://huggingface.co/datasets/openai/gsm8k)                    | `./LLaDA/data/gsm8k/`     |
 | MATH-500      | [`HuggingFaceH4/MATH-500`](https://huggingface.co/datasets/HuggingFaceH4/MATH-500) | `./LLaDA/data/math500/`   |
 | HumanEval     | [`openai/openai_humaneval`](https://huggingface.co/datasets/openai/openai_humaneval) | `./LLaDA/data/humaneval/` |
-| ARC (AI2)     | [`allenai/ai2_arc`](https://huggingface.co/datasets/allenai/ai2_arc)              | `./LLaDA/data/ai2_arc/`       |
+| ai2_arc     | [`allenai/ai2_arc`](https://huggingface.co/datasets/allenai/ai2_arc)              | `./LLaDA/data/ai2_arc/`       |
 
 Datasets not listed above are already included in the [`./LLaDA/data/`](./LLaDA/data/) directory
 
