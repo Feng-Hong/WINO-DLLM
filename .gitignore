@@ -1,0 +1,84 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Virtual environment
+venv/
+dev/
+.env/
+.venv/
+
+# VS Code settings
+.vscode/
+
+# MacOS metadata
+.DS_Store
+
+# Python environments
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Model checkpoints, weights, logs
+*.ckpt
+*.pth
+*.pt
+*.bin
+*.h5
+*.onnx
+*.tflite
+*.mlmodel
+*.log
+*.log.*
+
+# HuggingFace cache (if placed inside repo)
+.cache/
+transformers_cache/
+datasets_cache/
+
+# HuggingFace token or credentials
+.token
+*.huggingface
+
+# Project-specific
+models/
+data/
+outputs/
+results/
+__results__/
+*.tmp
+*.npy
+*.npz
+
+# Test and temp files
+*.out
+*.tmp
+*.bak
+*.swp
+
+# MyPy, Pyright, Pyre
+.mypy_cache/
+.pyright/
+.pyre/
+.pytype/
+
+# Coverage and test results
+htmlcov/
+.tox/
+.nox/
+.coverage
+.cache
+.pytest_cache/
+
+# Profiling and benchmarking
+.prof
+*.lprof
+*.profraw
