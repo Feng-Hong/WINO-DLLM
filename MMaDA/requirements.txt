@@ -8,7 +8,7 @@ math-verify==0.7.0
 wandb
 webdataset
 omegaconf
-pyarrow
+pyarrow==20.0.0
 pandas
 jaxtyping
 diffusers==0.32.2
@@ -21,3 +21,4 @@ einops
 python-Levenshtein
 av==14.4.0
 pycocotools==2.0.7
+safetensors==0.5.3
