@@ -1,9 +1,6 @@
 # WINO-DLLM
 
-Official implementation for **WINO+** post-training on diffusion LLMs.
-
-For the original WINO training-free decoding repository, see the main branch of
-[`Feng-Hong/WINO-DLLM`](https://github.com/Feng-Hong/WINO-DLLM/tree/main).
+Official implementation for **WINO+**, a journal extension of [WINO](https://github.com/Feng-Hong/WINO-DLLM/tree/main).
 
 This repository provides the WINO+ workflow for LLaDA and MMaDA:
 
