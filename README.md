@@ -1,6 +1,6 @@
 # WINO-DLLM
 
-Official implementation for **WINO+**, a journal extension of [WINO](https://github.com/Feng-Hong/WINO-DLLM/tree/main).
+Official implementation for [**WINO+**](https://arxiv.org/pdf/2605.16941), a journal extension of [WINO](https://github.com/Feng-Hong/WINO-DLLM/tree/main).
 
 This repository provides the WINO+ workflow for LLaDA and MMaDA:
 
