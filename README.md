@@ -9,6 +9,8 @@ This repository provides the WINO+ workflow for LLaDA and MMaDA:
 - merge LoRA adapters into base models;
 - evaluate merged WINO+ models.
 
+The WINO+ model weights are publicly available on Hugging Face: [WINO-plus-LLaDA-8B-Instruct](https://huggingface.co/QinFFF/WINO-plus-LLaDA-8B-Instruct) and [WINO-plus-MMaDA-8B-MixCoT](https://huggingface.co/QinFFF/WINO-plus-MMaDA-8B-MixCoT).
+
 ## WINO+ Trajectory Data Preparation
 
 WINO+ post-training uses offline WINO trajectories. The lightweight data preparation code is under
