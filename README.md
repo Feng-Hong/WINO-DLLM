@@ -13,7 +13,7 @@ This repository provides scripts and instructions to evaluate [WINO](https://ope
 
 - We are continuing to improve efficient DLLM inference with **ReMix**: [Rejection Mixing: Fast Semantic Propagation of Mask Tokens for Efficient DLLM Inference](https://github.com/Serpientw/ReMix-DLLM), accepted to CVPR 2026. ReMix is a training-free decoding method that further explores fast semantic propagation for mask tokens, and it provides unified evaluation scripts for both LLaDA and MMaDA.
 
-- We further extend WINO with **WINO+**: [Diffusion LLMs are Their Own Efficiency Teachers](https://arxiv.org/pdf/2605.16941), a journal extension that learns from offline WINO trajectories to further improve DLLM inference efficiency. The WINO+ workflow and released model weights are available at [WINO+](https://github.com/Feng-Hong/WINO-DLLM/tree/wino-plus).
+- We further extend WINO with **WINO+**: [Diffusion LLMs are Their Own Efficiency Teachers](https://arxiv.org/pdf/2605.16941), a journal extension that learns from offline WINO trajectories to further improve DLLM inference efficiency. The WINO+ workflow and released model weights are available at [WINO+](https://github.com/Feng-Hong/WINO-DLLM/edit/WINO-plus).
 
 
 ## Evaluation of WINO on LLaDA
